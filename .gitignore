@@ -1,0 +1,11 @@
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.txt
+*.nogit
+*.zip
+*.swp
+
+.DS_Store
+
